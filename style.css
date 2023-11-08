@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.imagen{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.texto{
+    padding: 5rem;
+}
+
+.texto p{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto button{
+   height: 30px;
+   width: 50px;
+   margin: 5px;
+   cursor: pointer;
+   background-color: blanchedalmond;
+   
+}
+
+
+.f0{
+  font-size: 0.8rem;
+}
+.f1 {
+  font-size: 0.9rem;
+}
+.f2 {
+  font-size: 1rem;
+}
+.f3 {
+  font-size: 1.1rem;
+}
+.f4 {
+  font-size: 1.2rem;
+}
+
